@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "gallant12x22";
+    src: url("gallant12x22.eot");
+    src:
+        url("gallant12x22.eot?#iefix") format("embedded-opentype"),
+        url("gallant12x22.woff2") format("woff2"),
+        url("gallant12x22.woff") format("woff"),
+        url("gallant12x22.ttf") format("truetype"),
+        url("gallant12x22.svg#gallant12x22") format("svg");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}

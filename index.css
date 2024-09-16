@@ -1,0 +1,50 @@
+@media only screen and (max-width: 800px) {
+    body {
+        width: 95%;
+        margin: auto;
+    }
+}
+
+@media only screen and (min-width: 801px) {
+    body {
+        width: 800px;
+        margin: auto;
+    }
+}
+
+body {
+    padding-top: 35px;
+    background-color: #fdf6e3;
+}
+
+#blogContent {
+    width: 85%;
+    margin: auto;
+    text-align: justify;
+    font-family: "gallant12x22";
+    font-size: 16pt;
+}
+
+#header,
+#footer {
+    text-align: center;
+    font-family: "gallant12x22";
+}
+
+#footer {
+    padding-bottom: 10px;
+}
+
+#header {
+    font-weight: bold;
+    font-size: 40pt;
+    font-family: "gallant12x22";
+}
+
+#blogContent h1 {
+    display: none;
+}
+
+.date {
+    font-size: 10pt;
+}
