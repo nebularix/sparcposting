@@ -48,3 +48,7 @@ body {
 .date {
     font-size: 10pt;
 }
+
+img {
+    border: 4px solid black;
+}
