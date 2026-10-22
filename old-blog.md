@@ -6,7 +6,7 @@
 
 Send me an email, and it'll get forwarded straight to my Sun-4 workstation!
 
---> neb@sparcposting (dot) net
+--> (redacted)
 
 Please encode your message in *plaintext* - Gmail's plaintext mode still sends in base64 anyway for some reason.
 
